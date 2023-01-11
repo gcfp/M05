@@ -1,0 +1,33 @@
+Hello Customer,
+
+Thank you for contacting Google Cloud Platform Support. My name is Guillem and I will be assisting you with this request.
+
+I understand that you would like to increase the quota for GPUS_ALL_REGIONS to 10 and you would like to know the cost of running the big GPUs for a model training during two months and then how much would it cost every year to run a 4 tesla T4.
+
+To increase the quota, please follow the steps below or use this link:
+
+1. Login to the GCP console
+2. Click on the project name in the top left corner
+3. Click on the project name again
+4. Click on the "Quotas" tab
+5. Click on the "Edit Quotas" button
+6. Search for "GPUS_ALL_REGIONS"
+7. Click on the "Edit Quotas" button
+8. Change the quota to 10
+9. Click on the "Save" button
+
+Please note that the quota increase will take effect within 24 hours.
+For additional information, please refer to the following link: https://cloud.google.com/compute/quotas#requesting_additional_quota
+
+Using this mail information, I can estimate the cost to run a single Tesla P100 for two months will be arround 1.400€ per month.
+
+
+To calculate the cost more precisely, please refer to the following link: https://cloud.google.com/products/calculator
+
+I hope this information helps you. If you have any additional questions, please let me know. I will be happy to assist you.
+
+Best regards,
+
+Guillem
+Google Cloud Platform Support
+Barcelona, Spain
